@@ -1,0 +1,11 @@
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\bin\Debug\ClinkClinkGo.exe.config
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\bin\Debug\ClinkClinkGo.exe
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\bin\Debug\ClinkClinkGo.pdb
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Debug\ClinkClinkGo.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Debug\ClinkClinkGo.Form1.resources
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Debug\ClinkClinkGo.Properties.Resources.resources
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Debug\ClinkClinkGo.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Debug\ClinkClinkGo.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Debug\ClinkClinkGo.exe
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Debug\ClinkClinkGo.pdb
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Debug\ClinkClinkGo.Chat.resources

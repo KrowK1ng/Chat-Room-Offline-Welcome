@@ -1,0 +1,11 @@
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\bin\Release\ClinkClinkGo.exe.config
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\bin\Release\ClinkClinkGo.exe
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\bin\Release\ClinkClinkGo.pdb
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Release\ClinkClinkGo.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Release\ClinkClinkGo.Chat.resources
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Release\ClinkClinkGo.Form1.resources
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Release\ClinkClinkGo.Properties.Resources.resources
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Release\ClinkClinkGo.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Release\ClinkClinkGo.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Release\ClinkClinkGo.exe
+C:\Users\Victor\source\repos\ClinkClinkGo\ClinkClinkGo\obj\Release\ClinkClinkGo.pdb
